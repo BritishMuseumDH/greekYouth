@@ -19,4 +19,7 @@ LICENSE
 
 This model and associated components are copyright the Trustees of the British Museum 2016. All files held within this repository are licensed under a Creative Commons By Attribution Share-Alike Non-Commercial license.
 
+DOI
+===
 
+[![DOI](https://zenodo.org/badge/59014771.svg)](https://zenodo.org/badge/latestdoi/59014771)
